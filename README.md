@@ -1,5 +1,5 @@
 # TempleReminder
-This project takes sends out notifications as reminders to subscribers on specific auspicious days in a month that is pre-stored in a static file. This information is used by people to perform special religious activities on those days.
+This program sends out email to subscribers on-behalf of the temple wishing them on their birthdays. 
 
 ## Table of Contents
 * [General Info](#general-information)
