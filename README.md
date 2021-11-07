@@ -17,7 +17,7 @@ This program sends out email to subscribers on-behalf of the temple wishing them
 
 ## General Information
 
-- This program addresses the problem of people missing out doing specific religioius activities on auspicious days.
+- This program addresses the need of sending blessings from the temple to people on their birthdays. 
 - Helps people get reminders as notifications prompting them to pay attention on specific auspicious days.
 - I undertook this project to help people get timely notifications.  
 
