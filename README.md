@@ -17,9 +17,9 @@ This program sends out email to subscribers on-behalf of the temple wishing them
 
 ## General Information
 
-- This program addresses the need of sending blessings from the temple to people on their birthdays. 
-- Helps people get reminders as notifications prompting them to pay attention on specific auspicious days.
-- I undertook this project to help people get timely notifications.  
+- This program addresses the need of sending blessings from the temple to subsribers on their birthdays. 
+- Helps temple send blessings to individuals on their birthdays that makes people feel good. 
+- This faciliates the temple to maintain membership.  
 
 
 ## Technologies Used
@@ -28,7 +28,7 @@ This program sends out email to subscribers on-behalf of the temple wishing them
 
 ## Features
 List the ready features here:
-- Email notifications to subscribed users
+- Email note to subscribed users
 
 
 ## Screenshots
@@ -54,16 +54,16 @@ Project is: _complete_
 ## Room for Improvement
 
 Room for improvement:
-- Admin screen to add specific dates to the static file
+- Admin screen to add subscribers to the master list.
 
 Future Development:
-- Input screen to accept new subscribers
+- Input screen to facilitate people to directly subscribe to the service. 
 - Provision for existing users to unsubscribe
 
 
 ## Acknowledgements
 
-- I was inspired to undertake this project to help people get timely notifications on auspicious days so they can perform required activities.
+- I was inspired to undertake this project to help people get blessings from temple on their birthdays that is considered as a good sign by individuals.
 
 
 ## Contact
