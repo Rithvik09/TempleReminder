@@ -19,7 +19,7 @@ This project takes sends out notifications as reminders to subscribers on specif
 
 - This program addresses the problem of people missing out doing specific religioius activities on auspicious days.
 - Helps people get reminders as notifications prompting them to pay attention on specific auspicious days.
-- I thought it would be reasonably challenging to do this to sharpen my Java skills. 
+- I undertook this project to help people get timely notifications.  
 
 
 ## Technologies Used
@@ -63,7 +63,7 @@ Future Development:
 
 ## Acknowledgements
 
-- I got inspired as this project would provide me reasonable challenge to sharpen my Java skills.
+- I was inspired to undertake this project to help people get timely notifications on auspicious days so they can perform required activities.
 
 
 ## Contact
